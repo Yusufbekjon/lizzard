@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "lizzart-bot",
+    "staging": "lizzart-bot"
+  },
+  "targets": {},
+  "etags": {}
+}
